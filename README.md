@@ -1,6 +1,6 @@
-- Hi, I’m Yvonne Mukhono, a passionate learner on a quest to master Python for data science.
-- With a background in Business Computing and a keen interest in unraveling the stories hidden within data, I am dedicated to honing my Python skills.
+- Hi, I’m Yvonne Mukhono, a passionate learner on a quest to master skills for data science.
+- With a background in Business Computing and a keen interest in unraveling the stories hidden within data, I am dedicated to honing my Python, MySQL, PowerBi and Tableau skills.
 - Looking forward to explore the vast possibilities of data science, I immerse myself in online courses and practical projects.
-- My journey is marked by curiosity and determination as I navigate through Python's syntax, libraries, and best practices.
-- From Pandas and NumPy to seaborn and matplotlib, I embrace each tool as a stepping stone towards my goal of becoming a proficient data scientist.
-- With a knack for problem-solving and an insatiable thirst for knowledge, I am poised to make meaningful contributions in data science, armed with Python as my trusty companion.
+- My journey is marked by curiosity and determination as I navigate through syntaxes, libraries, and best practices.
+- I embrace each relevant tool as a stepping stone towards my goal of becoming a proficient data scientist.
+- With a knack for problem-solving and an insatiable thirst for knowledge, I am poised to make meaningful contributions in data science, armed with daa analytics as my trusty companion.
